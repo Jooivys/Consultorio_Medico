@@ -23,7 +23,7 @@ O sistema roda via terminal (linha de comando) e tem como objetivo treinar conce
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## 🛠️ Pré-requisitos
 
 - Java (versão 17 ou superior recomendada)  
 - JDK instalado e configurado  
