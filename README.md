@@ -49,7 +49,7 @@ git clone https://github.com/Jooivys/Consultorio_Medico.git
 ## 📁 Estrutura do Projeto
 
 ```
-src/
+Consultorio_Medico/
 ├── entidade/         # Classes de domínio: Paciente, Medico, Consulta
 ├── repositorio/      # Classes responsáveis por armazenar os dados em memória
 ├── servico/          # Regras de negócio
@@ -63,11 +63,17 @@ src/
 ## 👨‍💻 Autor
 
 Desenvolvido por: 
-**[@Jooivys](https://github.com/Jooivys)**  
+
+**[@Jooivys](https://github.com/Jooivys)**
+
 **[@ianbrunini](https://github.com/ianbrunini)**
+
 **[@Gustavobr8001](https://github.com/Gustavobr8001)**
+
 **[@arthurcopaoli](https://github.com/arthurcopaoli)**
+
 **[@gustavoramalho1](https://github.com/gustavoramalho1)**
+
 ---
 
 ## 📝 Observações
